@@ -206,7 +206,8 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: src (img/bird.mp4)
+    background: url('https://youtu.be/yjsY0U2Vw3k') black no-repeat center center scroll;
+
   }
   header video {
     display: none;
