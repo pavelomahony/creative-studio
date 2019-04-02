@@ -206,7 +206,7 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: src="img/bird.mp4" 
+    background: src (img/bird.mp4)
   }
   header video {
     display: none;
